@@ -1,0 +1,23 @@
+# Python / Virtualenv
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments & secret keys
+.env
+.env.*
+
+# Database
+*.sqlite3
+*.db
+
+# IDEs & System files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.tmp
+
+deep_analysis.md
